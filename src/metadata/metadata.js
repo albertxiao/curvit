@@ -2,7 +2,7 @@ module.exports = {
   name: 'Albert Suteja',
   title: 'Full Stack Developer',
   facts: {
-    'Residence': 'Malang',
+    'Residence': 'Sidoarjo',
     'Homepage': `<a href="https://albertxiao.github.io/curvit">
                   <span class="print">https://albertxiao.github.io/curvit</span>
                   <span class="screen">Web CV</span>
@@ -25,15 +25,15 @@ module.exports = {
   ],
   plays: [
     {
-      title: 'Parttime Software Developer at Kopoka',
-      written: 'Aug 2020 - Present',
-      badges: ['ASP.NET MVC', 'Entity Framework', 'jQuery'],
-      contents: `Develop & Fix Bug at Kopoka.`
+      title: 'Senior FullStack Engineer',
+      written: 'Mar 2020 - Present',
+      badges: ['NodeJS', 'Golang', 'Java', 'Swift', 'C++', 'Javascript', 'Angular', 'Vue 3', 'Microservices', 'GCP'],
+      contents: `Handle almost anything related to software development, but sometime doing hardware stuff too.`
     },
     {
       title: 'Parttime Software Developer at Geekgarden',
-      written: 'Des 2019 - Sep 2020',
-      badges: ['ASP.NET MVC', 'Entity Framework', 'Kendo for jQuery', 'jQuery'],
+      written: 'Sep 2019 - Jan 2020',
+      badges: ['ASP.NET MVC', 'Entity Framework', 'Kendo for jQuery', 'jQuery', 'Microservices'],
       contents: `Develop BRI Survey Management System.`
     },
     {
@@ -41,6 +41,12 @@ module.exports = {
       written: 'Aug 2017 - Oct 2019',
       badges: ['ASP.NET MVC', 'Entity Framework', 'Kendo for jQuery', 'jQuery', 'Azure'],
       contents: `Develop job & scheduling web applicationg and GPS Device to backend communication.`
+    },
+    {
+      title: 'Do Freelancing Works + Repair Shop Owner',
+      written: 'Jan 2015 - Jul 2019',
+      badges: ['ASP.NET MVC', 'Entity Framework', 'PHP', 'jQuery', 'Azure', 'AWS', 'NodeJS'],
+      contents: `Married, and move to Malang.`
     },
     {
       title: 'Analyst & Programmer for Kawan Lama Corporate',
