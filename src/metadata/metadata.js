@@ -28,15 +28,15 @@ module.exports = {
       title: 'Senior FullStack Engineer at Cryowerx',
       written: 'Mar 2020 - Present',
       badges: ['NodeJS', 'Golang', 'Java', 'Swift', 'C++', 'Javascript', 'Angular', 'Vue 3', 'Microservices', 'GCP'],
-      contents: `- Spearheaded the development of IoT-enabled smart fridge applications, improving operational efficiency and customer experience for automated retail.
-- Rewrote the frontend to utilize Vue 3, ensuring smoother user experience and easier maintainability for future feature updates.
-- Increased overall backend stability and improved robustness, reducing crashes due to errors to 0%.
-- Improved mobile app robustness, significantly decreasing crashes, with 98% of sessions showing no crashes in Firebase Crashlytics reports.
-- Designed and deployed microservices in Docker across AWS, DigitalOcean, and GCP, enhancing system resilience and achieving 99.9% uptime.
+      contents: `- Led the development of IoT-enabled smart fridge applications, enhancing operational efficiency and customer experience.
+- Migrated the frontend to Vue 3, improving user experience and maintainability.
+- Enhanced backend stability, achieving zero error-induced crashes.
+- Improved mobile app robustness, with 98% crash-free sessions reported.
+- Designed and deployed microservices using Docker across multiple cloud platforms, achieving 99.9% uptime.
 `
     },
     {
-      title: 'Parttime Software Developer at Geekgarden',
+      title: 'Contract Software Developer at Geekgarden',
       written: 'Sep 2019 - Jan 2020',
       badges: ['ASP.NET MVC', 'Entity Framework', 'Kendo for jQuery', 'jQuery', 'Microservices'],
       contents: `Develop BRI Bank's Survey Management System.`
@@ -45,8 +45,8 @@ module.exports = {
       title: 'Senior Software Engineer for Bizzow',
       written: 'Aug 2017 - Oct 2019',
       badges: ['ASP.NET MVC', 'Entity Framework', 'Kendo for jQuery', 'jQuery', 'Azure'],
-      contents: `- Developed a GPS device communication system integrated with a job and scheduling application, improving field technician efficiency by 25%.
-- Utilized ASP.NET MVC and Azure to build scalable backend systems
+      contents: `- Developed a GPS device communication system integrated with job scheduling.
+- Built scalable backend systems using ASP.NET MVC and Azure.
 `
     },
     {
@@ -68,17 +68,17 @@ module.exports = {
     {
       header: 'Freelance Software Developer',
       skills: ['Android', 'Flutter'],
-      contents: `Develop app to help register user who want to register new company or institution`
+      contents: `Develop app for a notary to attract customer that need to register a new company or institution`
     },
     {
       header: 'Freelance Software Developer',
       skills: ['PHP', 'javascript'],
-      contents: `Develop web application to generate financial reports (Journal, Profit & Loss Report, Ledger) for hotel`
+      contents: `Develop web application to generate financial reports (Journal, Profit & Loss Report, Ledger) for a hotel`
     },
     {
       header: 'Freelance Software Developer',
       skills: ['PHP', 'docker', 'shell script'],
-      contents: `Fix aniworks & animenz website`
+      contents: `Fixing aniworks & animenz website`
     },
     {
       header: 'Freelance Software Developer',
@@ -88,12 +88,12 @@ module.exports = {
     {
       header: 'Freelance Software Developer',
       skills: ['javascript'],
-      contents: `Develop script to automate file upload to IDI Website`
+      contents: `Develop scripts to automate file upload to IDI Website`
     },
     {
-      header: 'Home Automation',
+      header: 'Home Automation and Server Management',
       skills: ['Arduino', 'Electronic Engineering', 'Raspberry Pi'],
-      contents: `Self project to automate house chores & gardening`
+      contents: `Self project to automate house chores & gardening, also build a server to host services at home.`
     },
     {
       header: 'Final Project',
